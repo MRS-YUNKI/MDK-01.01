@@ -12,6 +12,8 @@ double angle_in_radian = a * Math.PI / 180;
 
 double vx0 = v0 * Math.Cos(angle_in_radian);
 double vy0 = v0 * Math.Sin(angle_in_radian);
+double t_max = vy0 / g;
+double h_max = v0 * Math.Sin(angle_in_radian) * t_max - ((g * Math.Pow(t_max, 2)) / 2);
 
 double t = 0;
 double dt = 0.1;
@@ -23,6 +25,7 @@ while (true)
     if (y <= 0)
     {
         Console.WriteLine($"Снаряд упал в координатах: ({x}, 0)");
+        Console.WriteLine($"Максимальная высота полета снаряда равняется {h_max}.");
         break;
     }
     Console.WriteLine($"t = {t}, x = {x}, y = {y}.");
