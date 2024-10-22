@@ -1,10 +1,10 @@
-﻿Console.WriteLine("Введите координаты пушки по оси X (есть возможность указать значение с плавающей точкой:");
+Console.Write("Введите координаты пушки по оси X (есть возможность указать значение с плавающей точкой: ");
 double x0 = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Введите координаты пушки по оси Y (есть возможность указать значение с плавающей точкой):");
+Console.Write("Введите координаты пушки по оси Y (есть возможность указать значение с плавающей точкой): ");
 double y0 = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Введите значение начальной скорости снаряда (v0):");
+Console.Write("Введите значение начальной скорости снаряда (v0): ");
 int v0 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите значение угла вылета снаряда из пушки в градусах:");
+Console.Write("Введите значение угла вылета снаряда из пушки в градусах: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
 const double g = 9.81;
