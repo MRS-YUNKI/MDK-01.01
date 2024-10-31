@@ -1,4 +1,4 @@
-﻿Console.Write("Укажите свою дату рождения (день.месяц):");
+﻿Console.Write("Укажите свой год рождения:");
 int Year = Convert.ToInt32(Console.ReadLine());
 string Animal = "";
 string Element = "";
