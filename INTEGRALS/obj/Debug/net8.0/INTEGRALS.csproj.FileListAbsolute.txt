@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\bin\Debug\net8.0\INTEGRALS.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\bin\Debug\net8.0\INTEGRALS.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\bin\Debug\net8.0\INTEGRALS.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\bin\Debug\net8.0\INTEGRALS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\bin\Debug\net8.0\INTEGRALS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\refint\INTEGRALS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\INTEGRALS.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\INTEGRALS\obj\Debug\net8.0\ref\INTEGRALS.dll
