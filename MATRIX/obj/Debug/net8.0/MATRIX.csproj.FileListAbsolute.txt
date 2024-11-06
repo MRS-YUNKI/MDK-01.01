@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\bin\Debug\net8.0\MATRIX.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\bin\Debug\net8.0\MATRIX.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\bin\Debug\net8.0\MATRIX.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\bin\Debug\net8.0\MATRIX.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\bin\Debug\net8.0\MATRIX.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\refint\MATRIX.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\MATRIX.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MATRIX\obj\Debug\net8.0\ref\MATRIX.dll
