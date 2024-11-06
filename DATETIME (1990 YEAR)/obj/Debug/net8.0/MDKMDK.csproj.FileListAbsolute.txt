@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\bin\Debug\net8.0\MDKMDK.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\bin\Debug\net8.0\MDKMDK.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\bin\Debug\net8.0\MDKMDK.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\bin\Debug\net8.0\MDKMDK.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\bin\Debug\net8.0\MDKMDK.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\refint\MDKMDK.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\MDKMDK.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MDKMDK\obj\Debug\net8.0\ref\MDKMDK.dll
