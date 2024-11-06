@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\bin\Debug\net8.0\SYSTEM10.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\bin\Debug\net8.0\SYSTEM10.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\bin\Debug\net8.0\SYSTEM10.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\bin\Debug\net8.0\SYSTEM10.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\bin\Debug\net8.0\SYSTEM10.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\refint\SYSTEM10.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\SYSTEM10.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\SYSTEM10\obj\Debug\net8.0\ref\SYSTEM10.dll
