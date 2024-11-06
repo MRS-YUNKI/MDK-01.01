@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FUNCTION/1.0.0": {
+        "runtime": {
+          "FUNCTION.dll": {}
+        }
+      },
+      "WITHOUT DATETIME (1990 year task)/1.0.0": {
+        "runtime": {
+          "WITHOUT DATETIME (1990 year task).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FUNCTION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WITHOUT DATETIME (1990 year task)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

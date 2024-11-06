@@ -1,0 +1,21 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.csproj.AssemblyReference.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\WITHOUT DATETIME (1990 year task).deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\WITHOUT DATETIME (1990 year task).runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\WITHOUT DATETIME (1990 year task).exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\FUNCTION.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\FUNCTION.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\FUNCTION.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\FUNCTION.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\FUNCTION.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\WITHOUT DATETIME (1990 year task).dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\bin\Debug\net8.0\WITHOUT DATETIME (1990 year task).pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.csproj.Up2Date
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\refint\FUNCTION.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\FUNCTION.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\FUNCTION\obj\Debug\net8.0\ref\FUNCTION.dll
