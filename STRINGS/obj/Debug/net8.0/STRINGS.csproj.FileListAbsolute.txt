@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\bin\Debug\net8.0\STRINGS.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\bin\Debug\net8.0\STRINGS.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\bin\Debug\net8.0\STRINGS.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\bin\Debug\net8.0\STRINGS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\bin\Debug\net8.0\STRINGS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\refint\STRINGS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\STRINGS.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\STRINGS\obj\Debug\net8.0\ref\STRINGS.dll
