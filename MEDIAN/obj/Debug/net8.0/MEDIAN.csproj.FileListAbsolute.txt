@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\bin\Debug\net8.0\MEDIAN.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\bin\Debug\net8.0\MEDIAN.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\bin\Debug\net8.0\MEDIAN.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\bin\Debug\net8.0\MEDIAN.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\bin\Debug\net8.0\MEDIAN.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\refint\MEDIAN.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\MEDIAN.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\MEDIAN\obj\Debug\net8.0\ref\MEDIAN.dll
