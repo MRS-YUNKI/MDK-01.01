@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\bin\Debug\net8.0\CLASS.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\bin\Debug\net8.0\CLASS.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\bin\Debug\net8.0\CLASS.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\bin\Debug\net8.0\CLASS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\bin\Debug\net8.0\CLASS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\refint\CLASS.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\CLASS.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\CLASS\obj\Debug\net8.0\ref\CLASS.dll
