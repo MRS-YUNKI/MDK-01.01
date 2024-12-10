@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.AssemblyInfo.cs
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\bin\Debug\net8.0\TRIANGLE.exe
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\bin\Debug\net8.0\TRIANGLE.deps.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\bin\Debug\net8.0\TRIANGLE.runtimeconfig.json
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\bin\Debug\net8.0\TRIANGLE.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\bin\Debug\net8.0\TRIANGLE.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\refint\TRIANGLE.dll
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.pdb
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\TRIANGLE.genruntimeconfig.cache
+C:\Users\prdb\Desktop\Demo\Sch\MDKMDK\TRIANGLE\obj\Debug\net8.0\ref\TRIANGLE.dll
