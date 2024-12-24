@@ -1,10 +1,8 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
 Console.Write("Введите значение нижнего предела (a): ");
 double a = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите значение верхнего предела (b): ");
-double b = Convert.ToDouble (Console.ReadLine());
-Console.Write("Введите количество разбиений интеграла на прямоугольники: ");
+double b = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите количество разбиений интеграла на прямоугольники (n): ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 double f(double x)
@@ -13,26 +11,15 @@ double f(double x)
 }
 
 double h = (b - a) / n;
-double sum = 0; //Суммма промежуточных результатов (т.е. подынтервалов)
+double pre_integrals = 0;
 
-for  (int i = 0; i < n; i++)
+for (int i = 0; i < n; i++)
 {
-    double middle_point = a + (i + 0.5) * h; //Вычисление средней точки
-    sum += f(middle_point); //Вычисление значения подынтыгральной функции в средней точке прямоугольника и добавление к интегральной сумме
+    double middle_point = a + (i + 0.5) * h;
+    pre_integrals += f(middle_point);
 }
-double result = h * sum;
-Console.WriteLine($"Приближенное значение определенного интеграла в пределе от {a} до {b} с разбиением на {n} равняется {result}.");
+double result = h * pre_integrals;
 
-
-try
-{
-    StreamWriter file = new StreamWriter("C:\\Users\\prdb\\Desktop\\Demo\\Sch\\MDKMDK\\INTEGRALS");
-    file.WriteLine($"Результат: {result}");
-    file.Close();
-} catch(Exception exc)
-{
-    Console.WriteLine("Exception: " + exc.Message);
-} finally
-{
-    Console.WriteLine("Finished");
-}
+StreamWriter file = new StreamWriter("C:\\Users\\prdb\\Desktop\\Demo\\Sch\\MDKMDK\\TRAINING\\OUTPUT.txt");
+file.WriteLine($"Результат расчетов: {result}");
+file.Close();
