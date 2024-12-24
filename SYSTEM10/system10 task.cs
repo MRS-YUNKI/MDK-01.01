@@ -12,6 +12,11 @@ if (q1 < 2 || q1 > 9 || q2 < 2 || q2 > 9)
 }
 
 int value = Convert.ToInt32(x, q1);
-string result = Convert.ToString(value, q2);
+List<int> result = new List<int>();
+while (value > 0)
+{
+    result.Add(value % q2);
+    value /= q2;
+}
 
-Console.WriteLine($"Число {x} в системе счисления {q1} равняется {result} в системе счисления {q2}.");
+Console.WriteLine($"Число {x} в системе счисления {q1} будет равно {string.Join("", result)} в системе счисления {q2}");
